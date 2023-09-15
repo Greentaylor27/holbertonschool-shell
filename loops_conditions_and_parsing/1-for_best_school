@@ -1,5 +1,6 @@
 #!/user/bin/env bash
-for {1..10}
+#this is not empty
+for {1..10}	
 do 
 	echo "Best School"
 done
