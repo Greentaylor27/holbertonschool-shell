@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Until loops
 x=1
-until [ $x==10 ]
+until [ $x==10 ];
 do
 	echo 'Best School'
-	((x+1))
+	x=$((x+1))
 done
