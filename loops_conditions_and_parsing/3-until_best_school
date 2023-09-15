@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Until loops
 x=1
-until [ $x == 10 ]
+until [ $x == 11 ]
 do
 	echo "Best School"
 	x=$((x+1))
