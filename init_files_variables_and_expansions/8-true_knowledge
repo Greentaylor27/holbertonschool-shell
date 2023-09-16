@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=((74+74))
+export TRUEKNOWLEDGE=$((64 + 64))
