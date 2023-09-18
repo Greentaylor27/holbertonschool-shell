@@ -1,1 +1,6 @@
 #!/usr/bin/env bash
+# Long list for current directory
+for item in *
+do
+	echo "$item" | cut -d "-" -f2-
+done
